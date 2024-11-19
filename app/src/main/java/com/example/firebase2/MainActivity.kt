@@ -98,7 +98,7 @@ fun App(db: FirebaseFirestore) {
                 .fillMaxWidth(),
             horizontalArrangement = Arrangement.Center
         ) {
-            Text(text = "3° DESENVOLVIMENTO DE SISTEMAS")
+            Text(text = "3ºDS - A")
         }
         Row(
             Modifier
